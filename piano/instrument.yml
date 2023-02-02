@@ -1,0 +1,29 @@
+clips:
+  A4:
+    path: samples/A4.wav
+  A#4:
+    path: samples/A#4.wav
+  B4:
+    path: samples/B4.wav
+  C5:
+    path: samples/C5.wav
+  C5:
+    path: samples/C5.wav
+  C#5:
+    path: samples/C#5.wav
+  D5:
+    path: samples/D5.wav
+  D#5:
+    path: samples/D#5.wav
+  E5:
+    path: samples/E5.wav
+  F5:
+    path: samples/F5.wav
+  F#5:
+    path: samples/F#5.wav
+  G5:
+    path: samples/G5.wav
+  G#5:
+    path: samples/G#5.wav
+  A5:
+    path: samples/A5.wav
